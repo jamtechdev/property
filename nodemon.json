@@ -1,0 +1,7 @@
+{
+    "watch": ["./.next"],
+    "ext": "js,json,tsx,ts",
+    "ignore": [],
+    "exec": "node ./node_modules/next/dist/bin/next start"
+  }
+  
